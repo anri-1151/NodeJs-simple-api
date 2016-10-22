@@ -1,0 +1,11 @@
+{
+  "port": 1337,
+  "mongoose": {
+    "uri": "mongodb://localhost/testUsersDB"
+  },
+  "default": {
+    "api": {
+      "version" : "v1"
+    }
+  }
+}
